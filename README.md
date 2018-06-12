@@ -29,7 +29,7 @@ var sm = new SmoothColor({
 ## Properties
 **1. options.object**
 
-Type: DOMElement ***(NOTE: Currently there is no potion to use collection, array etc. of the DOMElements)***
+Type: DOMElement ***(NOTE: Currently there is no option to use collection, array etc. of the DOMElements)***
 
 Defines object in which color will be changed. 
 
